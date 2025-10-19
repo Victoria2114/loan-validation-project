@@ -1,2 +1,2 @@
 # loan-validation-project
-HomeTask
+Loan Offers Validation & Business-Rules Analysis
