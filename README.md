@@ -1,4 +1,4 @@
-# loan-validation-project
+# pagaya-home-task
 Loan Offers Validation & Business-Rules Analysis
 
 This project analyzes two real-world datasets to identify system bugs and rule violations in a lending pipeline.
